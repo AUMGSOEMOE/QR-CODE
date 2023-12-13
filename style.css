@@ -2,3 +2,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body{
+    background-image: url(./images/favicon-32x32.png);
+    background-size: cover;
+    background-position: center;
+}
